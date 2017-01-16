@@ -7,3 +7,22 @@ Try to stay away from hard-coding locations or names of places into your applica
 
 Address of ClickTime office: 282 2nd Street 4th floor, San Francisco, CA 94105
 
+Solution: The code has been written in node.js and Express.js
+Application has been writted in MVC model defining controller, view and model. The UI has been defined in ejs format.
+Controller: control.js
+View: index.ejs
+Entry file: app.js
+
+Author: Suraj Didwania dsuraj@hawk.iit.edu
+
+Technologies
+
+Node.js
+Google direction API
+Google place library
+HTML5, CSS-3, JQUERY, JQUERY-UI, Javascript
+
+Tools
+
+Created with Atom (dekstop application to build an entire application)
+
